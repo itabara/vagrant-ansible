@@ -4,5 +4,7 @@ Ansible is an open source tool which streamlines certain system administration a
 Ansible commands are executed via SSH.
 
 vagrant up
+
 vagrant ssh devmaster
+
 ping devbox
